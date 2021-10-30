@@ -7,7 +7,7 @@ print (nombre.upper())
 #y las demás mantiene en minúsculas.
 print (nombre.capitalize())
 
-#La función strip() elimina los espacios basura que pueden estar al 
+#La función strip() elimina los espacios basura que pueden estar al
 #incio o al final de mi cadena de caracteres.
 print (nombre.strip())
 

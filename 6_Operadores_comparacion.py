@@ -9,7 +9,7 @@ num2 = 20
 print(num1 == num2)
 #El resultado va a ser:
 """False"""
-"""Esto pasa porque lo que hace el operador '==' es comparar dos 
+"""Esto pasa porque lo que hace el operador '==' es comparar dos
 variables para ver si son equivalentes o no."""
 
 #Operador '!='
@@ -18,11 +18,11 @@ variables para ver si son equivalentes o no."""
 print(num1 != num2)
 #El resultado va a ser:
 """True"""
-"""Esto pasa porque lo que hace el operador '==' es comparar dos 
-variables para ver si difrentes o no."""
+"""Esto pasa porque lo que hace el operador '!=' es comparar dos
+variables para ver si son diferentes o no."""
 
 #Operador ">"
-#Se le conoce como operador mayor 
+#Se le conoce como operador mayor
 
 print(num1 > num2)
 #El resultado va a ser:
@@ -40,7 +40,7 @@ print(num1 < num2)
 variable es menor a la segunda variable o no."""
 
 #Operador ">="
-#Se le conoce como operador mayor o igual 
+#Se le conoce como operador mayor o igual
 
 print(num1 >= num2)
 #El resultado va a ser:

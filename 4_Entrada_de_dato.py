@@ -11,7 +11,7 @@ print(Suma)
 """Escribe un número: 5"""
 """45"""
 #Esto se debe a que estamos haciendo una suma de caracteres
-#Para definir definir un entero desde la entra de teclado hacemos lo siguiente:
+#Para definir un entero desde la entra de teclado hacemos lo siguiente:
 
 numero1 = int(input("Escribe un número: "))
 numero2 = int(input("Escribe un número: "))

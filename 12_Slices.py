@@ -1,12 +1,12 @@
 nombre = "mecz_code"
 
 #Partición de cadenas de caracteres.
-#Podemos 
-print(nombre[0:4]) 
+#Podemos
+print(nombre[0:4])
 #Obtenemos: mecz
 
 #Podemos hacer particiones desde el inicio hasta un valor antes.
-print(nombre[:4]) 
+print(nombre[:4])
 #Obtenemos: mecz
 
 #Poder hacer particiones desde el final hasta una determianda posición.
